@@ -1,6 +1,6 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg" alt="ICON" width="80%"/></p>
 
 # SiestaXMusic
 
@@ -59,7 +59,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy SiestaXMusic on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TechShreyash/SiestaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Killerboyxd/DarkXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a>
 
 
 ## 🖇 okteto Deployment
@@ -74,7 +74,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/672efa7b8160ed39c6e86.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -129,8 +129,8 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/TechZBots)
-- [Support Group](https://telegram.me/TechZBots_Support)
+- [Updates Channel](https://telegram.me/do_dil_ek_jaan143)
+- [Support Group](https://telegram.me/RONNY_KI_DUNIYA)
 
 ## 🎗 Project assistance
 
